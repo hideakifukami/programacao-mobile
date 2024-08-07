@@ -1,0 +1,15 @@
+aula01/*.iml
+aula01/.gradle
+aula01/local.properties
+aula01/.idea/caches
+aula01/.idea/libraries
+aula01/.idea/modules.xml
+aula01/.idea/workspace.xml
+aula01/.idea/navEditor.xml
+aula01/.idea/assetWizardSettings.xml
+aula01/.DS_Store
+aula01/build
+aula01/captures
+aula01/.externalNativeBuild
+aula01/.cxx
+aula01/local.properties
